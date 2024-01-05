@@ -8,8 +8,7 @@
   </p>
   <br/>
    <p align="justify">
-    Meu projeto atual é o <a href="https://github.com/mrdaniel77/PetPalacio">PetPalácio</a>, utilizo a linguagem PHP e o framework LARAVEL.
-    <a></a>
+    Meu projeto atual é o <a href="https://github.com/mrdaniel77/PetPalacio">PetPalácio</a>, utilizo a linguagem PHP e o framework LARAVEL. (Acesse o link e visualize o projeto na descrição)
   </p>
 
   <h3 align="center">
