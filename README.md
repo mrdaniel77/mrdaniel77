@@ -4,13 +4,19 @@
   </h1>
   <br/>
   <p align="justify">
-    Formado no curso de Técnico em informática e atualmente cursando a graduação de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia Senac-DF, procuro     na minha jornada sempre agregar valores e adquirir o máximo de experiências e conhecimentos.
+    Formado no curso de Técnico em informática e na graduação de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia Senac-DF, procuro em minha jornada sempre agregar valores e adquirir o máximo de experiências e conhecimentos.
   </p>
 
   <h3 align="center">
    🔥 Seja bem-vindo ao meu perfil GitHub 🔥
   </h3>
   <br/>
+
+  <p align="justify">
+    <span>Projeto atual</span> -> Meu projeto atual é o PetPalácio, utilizo a linguagem PHP e o framework LARAVEL.
+    <a>https://github.com/mrdaniel77/PetPalacio</a>
+  </p>
+  
   
   <div align="center" justify=><br>
    <p>Tecnologias e ferramentas :</p>
